@@ -6,4 +6,4 @@ This project's goal was to change all of the div elements to more accessible ele
 ## Link to Active Application:
 https://gabriellapinto.github.io/horiseon-refactor/
 
-![Horiseon Website](../../01-html-css-git-homework-demo.png)
+![Horiseon Website](https://user-images.githubusercontent.com/97854086/215359075-34f28af2-4ac6-4f2b-866a-52b743d477ef.png)
